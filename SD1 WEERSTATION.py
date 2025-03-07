@@ -46,3 +46,6 @@ def weerstation():
         print("=" * 40)
 
 weerstation()
+
+
+# Bronnen: Testraamwerk van Bart, lessen + presentaties 01 tot 05 van PROG, w3schools.com
